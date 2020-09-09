@@ -1,0 +1,21 @@
+{
+    "name": "microbit-airpressure-graph",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "stem": "github:tfabworks/pxt-stem#v1.6.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
